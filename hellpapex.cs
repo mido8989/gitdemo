@@ -1,0 +1,1 @@
+#generate new settings from the app
